@@ -1,0 +1,41 @@
+.logo {
+
+}
+
+.hr-bar{
+
+}
+.text-input{
+
+}
+.primary-btn{
+
+}
+
+
+.secondary-btn{
+
+}
+
+.showcase-text{
+    color:white;
+}
+
+body {
+    background-image: url('https://image.ibb.co/cO9Lxq/login-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  p {
+      color: white;
+  }
+
+  label {
+      color: white;
+  }
+
+  .a {
+      color: white;
+  }
